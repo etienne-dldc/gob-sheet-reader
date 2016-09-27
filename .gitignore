@@ -35,3 +35,10 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# Don't commit the credential if i forgot to delete it
+GoogleSheetCredentials.json
+
+# Builds (yes builder is a build folder)
+builder
+dist
