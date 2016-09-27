@@ -14,7 +14,7 @@ Then build the builder 🤔
 npm run build-builder
 ```
 
-Finally, run tha app 🚀🚀
+Finally, run the app 🚀🚀
 ```
 npm run dev
 ```
