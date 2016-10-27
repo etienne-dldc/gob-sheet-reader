@@ -1,4 +1,4 @@
-# Gob Sheet Reader
+# Gob Sheet Reader [WIP]
 A small website to try the Google Sheet API 👌👌
 
 ## Getting started
